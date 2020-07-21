@@ -1,6 +1,6 @@
 # Backwards Raycaster (CSCI 5607)
 This project is a globally illuminated raycaster.
-The raycaster is capable of anti-aliasing, texture rendering,
+The raytracer is capable of anti-aliasing, texture rendering,
 transparency, reflection, mesh rendering, different lighting
 techniques and more. The entire project is written in C++,
 and is capable of running multiple threads on a CPU for improved
